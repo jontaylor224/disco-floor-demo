@@ -1,6 +1,6 @@
 
 
-const backgroundColors = ["pink", "cyan", "yellow", "white", "white", "fuchsia", "greenyellow", "skyblue" ]
+const backgroundColors = ["darkorange","pink", "cyan", "yellow", "white", "dodgerblue", "fuchsia", "greenyellow", "skyblue", "deeppink" ]
 
 
 const cells = document.querySelectorAll(".cell")
