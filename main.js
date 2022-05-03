@@ -14,6 +14,8 @@ function changeColors () {
 }
 
 function animateFloor() {
+    //make first color change, then start timer.
+    changeColors()
     if (!colorTimer){
         colorTimer = setInterval(changeColors, 3000)
     }
