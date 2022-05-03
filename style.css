@@ -3,8 +3,8 @@
 }
 
 .cell {
-    width: 3rem;
-    height: 3rem;
+    width: 4rem;
+    height: 4rem;
     border: 1px solid black;
 }
 
@@ -15,4 +15,9 @@ button {
     background-color: #111;
     color: gold;
     border-radius: 50%;
+}
+
+button:hover {
+    color: aqua;
+    border-color: aqua;
 }
